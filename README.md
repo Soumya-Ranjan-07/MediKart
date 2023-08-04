@@ -57,4 +57,3 @@ Empower your pharmacy experience with Medikart. Embrace the future of healthcare
 ![admin view customers](https://github.com/Soumya-Ranjan-07/MediKart/assets/130222823/504f23e0-0de4-48c0-95e1-6dff52659375)
 ![admin view medicines](https://github.com/Soumya-Ranjan-07/MediKart/assets/130222823/a725eb78-8934-4686-81e2-96b3f35276dc)
 ![admin report](https://github.com/Soumya-Ranjan-07/MediKart/assets/130222823/4402c308-92be-456f-9d3b-f1c6a0c1ca6b)
-![admin view customers](https://github.com/Soumya-Ranjan-07/MediKart/assets/130222823/2709b2a4-3ba5-44cf-833e-3a657d814e9a)
