@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<web-app xmlns="http://java.sun.com/xml/ns/javaee" version="2.5"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
+
+	<display-name>Archetype Created Web Application</display-name>
+
+	<welcome-file-list>
+		<welcome-file>index.jsp</welcome-file>
+	</welcome-file-list>
+	<context-param>
+		<param-name>host</param-name>
+		<param-value>smtp.gmail.com</param-value>
+	</context-param>
+	<context-param>
+		<param-name>port</param-name>
+		<param-value>587</param-value>
+	</context-param>
+	<context-param>
+		<param-name>user</param-name>
+		<param-value>your mail id</param-value>
+	</context-param>
+	<context-param>
+		<param-name>name</param-name>
+		<param-value>Medi Kart</param-value>
+	</context-param>
+	<context-param>
+		<param-name>pass</param-name>
+		<param-value><!-- 1 - Enable 2-step Verification in your mail
+2 - Once you enabled above, you will able to see App Passwords option in same Security tab
+3 - Now generate App Password for Other(Custom)
+4 - Use this generated password in place of your gmail password in your code. --></param-value>
+	</context-param>
+	<session-config>
+		<session-timeout>30</session-timeout>
+	</session-config>
+</web-app>
