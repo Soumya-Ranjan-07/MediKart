@@ -123,8 +123,8 @@ public class AllMedicinesReport extends HttpServlet {
 	private static void addMetaData(Document document) {
 		document.addTitle("Generate PDF report");
 		document.addSubject("Generate PDF report");
-		document.addAuthor("Sayali Kurkute");
-		document.addCreator("Rutuja Lembhe");
+		document.addAuthor("Soumya Ranjan Sahoo");
+		document.addCreator("Soumya Ranjan Sahoo");
 	}
 
 	private static void addTitlePage(Document document) throws DocumentException {
