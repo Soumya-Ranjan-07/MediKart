@@ -72,7 +72,7 @@
 				<div class="row">
 					<div class="col-md-6 col-sm-6 col-xs-12">
 						<img src="images/admin-login1.png"
-							style="width: 550px; height: 390px;"></img>
+							style="width: 100%; max-width: 550px; height: auto;"></img>
 					</div>
 					<div class="col-md-6 col-sm-6 col-xs-12 bg-warning">
 						<div class="panel panel-default shadow p-3 mb-5">
