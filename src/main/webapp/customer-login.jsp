@@ -68,9 +68,9 @@
 		<div class="site-section">
 			<div class="container">
 				<div class="row">
-					<div class="col-md-6 col-sm-6 col-xs-12">
+					<div class="col-md-6 col-sm-6 col-xs-12 ">
 						<img src="images/customer-login.jpg"
-							style="width: 550px; height: 300px;"></img>
+							style="width: 100%; max-width: 550px; height: auto;"></img>
 					</div>
 					<div class="col-md-6 col-sm-6 col-xs-12 bg-warning">
 						<div class="panel panel-warning shadow p-3 mb-5">
