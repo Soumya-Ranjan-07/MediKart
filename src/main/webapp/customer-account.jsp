@@ -161,11 +161,10 @@
 												required="required">
 										</div>
 									</div>
-									<div width="100%"
-										; style="display: flex; justify-content: space-around">
-										<input style="padding: 10px 100px 10px 100px" type="submit"
+									<div class="d-flex flex-column align-items-center">
+										<input style="margin-bottom: 10px; width: 100%;" type="submit"
 											value="Create Account" class="btn btn-primary btn-lg">
-										<input style="padding: 10px 147px 10px 147px" type="reset"
+										<input style="width: 100%;" type="reset"
 											class="btn btn-danger btn-lg" value="Cancel">
 									</div>
 								</form>
