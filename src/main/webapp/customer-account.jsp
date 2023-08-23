@@ -56,7 +56,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12 mb-0">
-						<a href="index.html" class="text-warning">Home</a> <span
+						<a href="index.jsp" class="text-warning">Home</a> <span
 							class="mx-2 mb-0">/</span> <strong class="text-black">Create
 							Customer Account</strong>
 					</div>
